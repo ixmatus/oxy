@@ -1,4 +1,3 @@
-oxy
-===
+# Oxy
 
-oxy is a small and simple forwarding proxy daemon.
+Oxy is a simple, concurrent, and robust forwarding proxy.
